@@ -1,0 +1,4 @@
+nombre d’éléments nombre de couples non compatibles, capacité du sac à dos
+Matrice des Profits de taille (m*10)= nombre d’éléments
+Matrice des Poids de taille (m*10)= nombre d’éléments
+Couples (i,j)
